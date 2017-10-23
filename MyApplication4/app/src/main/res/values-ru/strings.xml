@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Игра в слова</string>
+    <string name="back_to_menu">Назад к меню</string>
+    <string name="confirm">Подтвердить</string>
+    <string name="load_game">Загрузить</string>
+    <string name="new_game">Новая игра</string>
+    <string name="no">Нет</string>
+    <string name="options">Опции</string>
+    <string name="quit">Выйти</string>
+    <string name="quit_question">Вы уверены, что хотите выйти?</string>
+    <string name="save">Сохраниться</string>
+    <string name="yes">Да</string>
+    <string name="invalid_word">Нельзя использовать это слово</string>
+    <string name="opponent_turn">Ход противника</string>
+    <string name="enter_word">Введите слово</string>
+    <string name="your_turn">Ваш ход</string>
+    <string name="saved_games">Сохранённые игры</string>
+    <string name="first_word">Это первое слово.</string>
+    <string name="last_word">Последним словом было</string>
+</resources>

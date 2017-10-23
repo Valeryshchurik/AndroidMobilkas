@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WordGame</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="quit_question">Are you sure you want to quit?</string>
+    <string name="new_game">New game</string>
+    <string name="load_game">Load game</string>
+    <string name="quit">Quit</string>
+    <string name="options">Options</string>
+    <string name="back_to_menu">Back to menu</string>
+    <string name="save">Save</string>
+    <string name="confirm">Confirm</string>
+    <string name="invalid_word">Invalid word</string>
+    <string name="your_turn">Your turn</string>
+    <string name="opponent_turn">Opponent turn</string>
+    <string name="enter_word">Enter word</string>
+    <string name="saved_games">Saved games</string>
+    <string name="first_word">This is the first word.</string>
+    <string name="last_word">Last word was</string>
+</resources>
+
